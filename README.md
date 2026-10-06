@@ -70,4 +70,9 @@ All 6 test cases validate PDF text parsing, semantic chunking overlap, local vec
 
 * **Project**: TAE-2 Mini Project Report
 * **Subject**: Large Language Models (LLM)
+* **Submitted By**: Divya Hirpara
+* **Roll No.**: 51
 * **Branch**: CSE (AIML) – Academic Year 2026–27
+* **Guide**: Prof. Abhay Yeole
+* **Institution**: G H Raisoni College of Enginnering, Nagpur
+  
