@@ -1,0 +1,19 @@
+BUILDMATE CONSTRUCTION SPECIFICATION MANUAL (PROJECT REF: BM-2026)
+
+1. STRUCTURAL CONCRETE & SPECIFICATIONS
+- All structural columns from foundation footing level up to terrace floor shall strictly utilize Grade M30 concrete with a maximum nominal aggregate size of 20 mm.
+- Suspended floor slabs and roof slabs shall be cast using Grade M25 concrete with standard Portland Pozzolana Cement (PPC).
+- Foundation footings (both isolated pad footings and combined raft foundations) shall be constructed using Grade M30 concrete.
+- Grade M20 concrete is permitted exclusively for non-structural plain cement concrete (PCC) leveling courses and plinth filling.
+
+2. CURING REQUIREMENTS
+- Continuous water curing for all suspended floor slabs and beams must be maintained for not less than 14 consecutive days.
+- Vertical column surfaces must be wrapped in damp hessian burlap fabric and kept continuously wet for a minimum period of 10 days post-striking of formwork.
+
+3. WATERPROOFING SPECIFICATIONS
+- Basement retaining walls and sub-structure pit areas require 2 layers of SBS-modified bituminous membrane waterproofing with an overlay protection screed.
+- Sunken slab bathroom areas require elastomeric cementitious acrylic waterproofing coatings turned up at least 300 mm along perimeter brick masonry walls.
+
+4. SITE SAFETY PROTOCOLS
+- Mandatory Personal Protective Equipment (PPE) including ISI-marked safety hard hats, high-visibility reflective vests, and steel-toe work boots must be worn in all active construction zones.
+- Fall-arrest safety harnesses and perimeter safety netting are strictly mandatory for all operations at elevations exceeding 2.0 meters above ground level.
